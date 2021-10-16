@@ -1,0 +1,1 @@
+# kogito-dmn-quickstart-example
